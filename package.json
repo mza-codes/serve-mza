@@ -1,0 +1,17 @@
+{
+  "name": "serve-mza",
+  "version": "3.1.1",
+  "description": "Server Module",
+  "main": "app.js",
+  "repository": "NIL",
+  "author": "muzammil",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
